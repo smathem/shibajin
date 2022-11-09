@@ -20,7 +20,7 @@
     {
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC1.json",
       "name": "五娃"
-    },
+    }
 
   ]
 }
