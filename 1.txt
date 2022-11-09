@@ -2,11 +2,11 @@
 {
   "urls": [
     {
-      "url": "http://xn--sss604efuw.ml/tvb/x",
+      "url": "https://cn.kstore.space/download/2904/123.txt",
       "name": "大娃"
     },
     {
-      "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC1.json",
+      "url": "https://agit.ai/hu/hcr/raw/branch/master/930.txt",
       "name": "二娃"
     },
     {
