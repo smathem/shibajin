@@ -1,0 +1,21 @@
+
+{
+  "storeHouse": [
+{
+    "sourceName": "正经仓库",
+    "sourceUrl": "clan://localhost/duoduo/1.txt"
+  },
+ {
+    "sourceName": "学习仓库",
+    "sourceUrl": "clan://localhost/duoduo/2.txt"
+  },
+ {
+    "sourceName": "路灯仓库",
+    "sourceUrl": "clan://localhost/duoduo/3.txt"
+  },
+ {
+    "sourceName": "传媒仓库",
+    "sourceUrl": "clan://localhost/duoduo/4.txt"
+  }
+ ]
+}
