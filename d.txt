@@ -7,15 +7,15 @@
   },
  {
     "sourceName": "学习仓库",
-    "sourceUrl": "clan://localhost/duoduo/2.txt"
+    "sourceUrl": "https://gitea.com/GOM/all/raw/branch/main/2.txt"
   },
  {
     "sourceName": "路灯仓库",
-    "sourceUrl": "clan://localhost/duoduo/3.txt"
+    "sourceUrl": "https://gitea.com/GOM/all/raw/branch/main/3.txt"
   },
  {
     "sourceName": "传媒仓库",
-    "sourceUrl": "clan://localhost/duoduo/4.txt"
+    "sourceUrl": "https://gitea.com/GOM/all/raw/branch/main/4.txt"
   }
  ]
 }
