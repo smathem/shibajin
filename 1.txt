@@ -810,20 +810,7 @@
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/29908/18.json?sign=6dFDJtF30CNlCiznjsQmwbsUbxdtz9edLVjbDc5lC8E%3D%3A0",
             "name": "月光福利"
-        },
-        {
-            "url": "http://mtw.so/5PGEEm",
-            "name": "houxian福利",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
-            "name": "wlyz88FL",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "http://tvmvip110.live/down.php/0a20c53b3c39b42d21482b2597943bc7.txt",
-            "name": "943bc7.txt"
         }
+        
     ]
 }
