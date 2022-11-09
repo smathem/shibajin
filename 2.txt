@@ -1,11 +1,11 @@
 {
     "urls": [
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC2.json",
+            "url": "https://agit.ai/hu/hcr/raw/branch/master/99668.txt",
             "name": "🕍线路3"
         },
         {
-            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC3.json",
+            "url": "https://cn.kstore.space/download/2904/123.txt",
             "name": "✨线路4"
         }
 ]
