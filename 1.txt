@@ -170,25 +170,7 @@
         },{
             "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/影视7.txt ",
             "name": "🥞人人影视7"
-        },{
-            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e6%95%99%e8%82%b2%ef%b9%a0%e6%95%99%e7%a8%8b.txt ",
-            "name": "🍚学习教育课堂"
-        },{
-            "url": "https://agit.ai/376242575/zzh/raw/branch/master/txt/%e4%bd%93%e8%82%b2%ef%b9%a0%e7%9b%b4%e6%92%ad.txt ",
-            "name": "🏀体育直播"
         },
-        {
-            "url": "https://agit.ai/376242575/zzh/raw/branch/master/%e4%bc%91%e9%97%b2%e7%bb%bc%e8%89%ba.txt ",
-            "name": "🎮休闲戏曲娱乐"
-        },{
-            "url": "https://agit.ai/376242575/zzh/raw/branch/master/美食.txt ",
-            "name": "🍭美食大全"
-        },
-        {
-            "url":"https://agit.ai/hu/hcr/raw/branch/master/1012.txt",
-            "name": "🌹花花世界"
-        },
-        
         {
             "url": "https://raw.iqiq.io/liu673cn/box/main/m.json",
             "name": "👙V线路1"
