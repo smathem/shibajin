@@ -480,7 +480,6 @@
     "youku",
     "qq"
   ],
-  "spider": "http://xn--4bra.live/jar/ggtv0802.jar",
   "sites": [
     {
       "key": "csp_77",
@@ -1364,5 +1363,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "spider":"https://gitea.com/99/j/raw/branch/main/pglblb_20220619.txt;md5;065C92F7720FA01E64086455D201C",
+  "spider":"https://gitea.com/99/j/raw/branch/main/pglblb_20220619.txt;md5;065C92F7720FA01E64086455D201C"
 }
